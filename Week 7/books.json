@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 299,
+    "availability": "in stock"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 199,
+    "availability": "in stock"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 249,
+    "availability": "out of stock"
+  }
+]
